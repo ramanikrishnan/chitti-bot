@@ -1,3 +1,5 @@
+console.log("FLOW FILE LOADED");
+
 const axios = require("axios");
 
 const sessions = {};
